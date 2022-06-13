@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "AKcqkeTcibeVp7ApoPl+GdVCh5jV4FfDEu2YfzUVDs8=",
+  "Source": "WebApiAutores2",
+  "BasePath": "_content/WebApiAutores2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApiAutores2\\wwwroot",
+      "Source": "WebApiAutores2",
+      "ContentRoot": "C:\\Users\\Miguel Escalante\\source\\repos\\WebApiAutores2\\WebApiAutores2\\wwwroot\\",
+      "BasePath": "_content/WebApiAutores2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Miguel Escalante\\source\\repos\\WebApiAutores2\\WebApiAutores2\\wwwroot\\Archivo 1.txt",
+      "SourceId": "WebApiAutores2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Miguel Escalante\\source\\repos\\WebApiAutores2\\WebApiAutores2\\wwwroot\\",
+      "BasePath": "_content/WebApiAutores2",
+      "RelativePath": "Archivo 1.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Archivo 1.txt"
+    }
+  ]
+}

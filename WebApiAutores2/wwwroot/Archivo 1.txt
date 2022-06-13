@@ -1,0 +1,10 @@
+Proceso iniciado
+Proceso en ejecucion: 03/06/2022 10:38:07
+Proceso en ejecucion: 03/06/2022 10:38:12
+Proceso en ejecucion: 03/06/2022 10:38:17
+Proceso en ejecucion: 03/06/2022 10:38:22
+Proceso en ejecucion: 03/06/2022 10:38:27
+Proceso en ejecucion: 03/06/2022 10:38:32
+Proceso en ejecucion: 03/06/2022 10:38:37
+Proceso en ejecucion: 03/06/2022 10:38:42
+Proceso finalizado
